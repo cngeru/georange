@@ -1,5 +1,9 @@
 # georange
 
+[![Dart](https://github.com/cngeru/georange/actions/workflows/dart.yml/badge.svg)](https://github.com/cngeru/georange/actions/workflows/dart.yml)   [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT) ![Pub Version](https://img.shields.io/pub/v/georange?color=blueviolet&label=Pub)
+
+
+
 Georange is a package that helps with encoding geohashes, decoding geohashes,calculating distance between 2 points and generating latitudinal and longitudinal ranges as geohashes to help with the querying of databases (Tested on Firestore Only).
 
 Heavily influenced by [GeoFlutterFire](https://github.com/DarshanGowda0/GeoFlutterFire)
